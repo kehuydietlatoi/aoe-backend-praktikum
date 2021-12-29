@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1640816637926" clover="3.2.0">
+  <project timestamp="1640816637927" name="All files">
+    <metrics statements="49" coveredstatements="48" conditionals="4" coveredconditionals="4" methods="7" coveredmethods="6" elements="60" coveredelements="58" complexity="0" loc="49" ncloc="49" packages="2" files="3" classes="3"/>
+    <package name="backend">
+      <metrics statements="38" coveredstatements="38" conditionals="4" coveredconditionals="4" methods="4" coveredmethods="4"/>
+      <file name="index.js" path="/home/hung/sem5/AOE_Praktikum/backend/index.js">
+        <metrics statements="38" coveredstatements="38" conditionals="4" coveredconditionals="4" methods="4" coveredmethods="4"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="14" count="3" type="stmt"/>
+        <line num="15" count="3" type="stmt"/>
+        <line num="16" count="237" type="cond" truecount="4" falsecount="0"/>
+        <line num="17" count="119" type="stmt"/>
+        <line num="20" count="3" type="stmt"/>
+        <line num="29" count="4" type="stmt"/>
+        <line num="30" count="4" type="stmt"/>
+        <line num="31" count="4" type="stmt"/>
+        <line num="32" count="4" type="stmt"/>
+        <line num="33" count="4" type="stmt"/>
+        <line num="34" count="239" type="stmt"/>
+        <line num="35" count="239" type="stmt"/>
+        <line num="36" count="239" type="stmt"/>
+        <line num="37" count="239" type="stmt"/>
+        <line num="38" count="239" type="stmt"/>
+        <line num="39" count="239" type="stmt"/>
+        <line num="40" count="239" type="stmt"/>
+        <line num="41" count="239" type="stmt"/>
+        <line num="42" count="239" type="stmt"/>
+        <line num="43" count="239" type="stmt"/>
+        <line num="44" count="3538" type="stmt"/>
+        <line num="46" count="239" type="stmt"/>
+        <line num="48" count="4" type="stmt"/>
+        <line num="56" count="1" type="stmt"/>
+        <line num="57" count="1" type="stmt"/>
+        <line num="58" count="1" type="stmt"/>
+        <line num="59" count="118" type="stmt"/>
+        <line num="61" count="1" type="stmt"/>
+        <line num="62" count="1" type="stmt"/>
+        <line num="65" count="1" type="stmt"/>
+        <line num="66" count="1" type="stmt"/>
+        <line num="67" count="1" type="stmt"/>
+        <line num="69" count="1" type="stmt"/>
+        <line num="71" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="backend.model">
+      <metrics statements="11" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2"/>
+      <file name="Record.js" path="/home/hung/sem5/AOE_Praktikum/backend/model/Record.js">
+        <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="3" count="239" type="stmt"/>
+        <line num="4" count="239" type="stmt"/>
+        <line num="5" count="239" type="stmt"/>
+        <line num="6" count="239" type="stmt"/>
+        <line num="7" count="239" type="stmt"/>
+        <line num="8" count="239" type="stmt"/>
+        <line num="9" count="239" type="stmt"/>
+        <line num="12" count="237" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+      </file>
+      <file name="Track.js" path="/home/hung/sem5/AOE_Praktikum/backend/model/Track.js">
+        <metrics statements="2" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

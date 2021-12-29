@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<records>
+  <record>
+    <title>dummy test</title>
+    <name>dummy test</name>
+    <genre>Folk</genre>
+    <releasedate>1997.08.20</releasedate>
+    <label>Smithsonian/Folkways</label>
+    <formats>CD</formats>
+    <tracklisting>
+      <track>Henry Lee</track>
+      <track>Fatal Flower Garden</track>
+      <track>House Carpenter</track>
+      <track>Drunkard's Special</track>
+      <track>Old Lady And The Devil</track>
+      <track>Butcher's Boy (The Railroad Boy)</track>
+      <track>Wagoner's Lad</track>
+      <track>King Kong Kitchie Kitchie Ki-Me-O</track>
+      <track>Old Shoes And Leggins</track>
+      <track>Willie Moore</track>
+      <track>Lazy Farmer Boy</track>
+      <track>Peg and Awl</track>
+      <track>Omie Wise</track>
+      <track>My Name Is John Johanna</track>
+    </tracklisting>
+  </record>
+  <record>
+    <title>dummy test 2</title>
+    <name>dummy test 2</name>
+    <genre>Folk</genre>
+    <releasedate>2005.08.20</releasedate>
+    <label>Smithsonian/Folkways</label>
+    <formats>CD</formats>
+    <tracklisting>
+      <track>Henry Lee</track>
+      <track>Fatal Flower Garden</track>
+      <track>House Carpenter</track>
+      <track>Drunkard's Special</track>
+      <track>Old Lady And The Devil</track>
+      <track>Butcher's Boy (The Railroad Boy)</track>
+      <track>Wagoner's Lad</track>
+      <track>King Kong Kitchie Kitchie Ki-Me-O</track>
+      <track>Old Shoes And Leggins</track>
+      <track>Willie Moore</track>
+      <track>Lazy Farmer Boy</track>
+      <track>Peg and Awl</track>
+      <track>Omie Wise</track>
+      <track>My Name Is John Johanna</track>
+    </tracklisting>
+  </record>
+</records>
